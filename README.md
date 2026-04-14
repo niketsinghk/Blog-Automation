@@ -1,4 +1,3 @@
-![WhatsApp Image 2025-12-20 at 23 09 07_6d47ac2d](https://github.com/user-attachments/assets/9be59720-26de-4244-bb4e-8e571fc139b8)
 
 # AI Blog Automation to WordPress
 
@@ -149,3 +148,14 @@ This prevents duplicate posts and tracks publishing status.
 * Internal linking suggestions
 * Multi-language blog generation
 * Blog analytics integration
+
+
+![WhatsApp Image 2025-12-20 at 23 09 07_6d47ac2d](https://github.com/user-attachments/assets/9be59720-26de-4244-bb4e-8e571fc139b8)
+
+<img width="790" height="820" alt="Screenshot 2026-03-21 174905" src="https://github.com/user-attachments/assets/458e5a8a-866f-4e1a-9c90-5074d3edf3dd" />
+<img width="764" height="818" alt="Screenshot 2026-03-21 174919" src="https://github.com/user-attachments/assets/4ed817af-a1b4-4126-abd7-5da304a41d60" />
+<img width="744" height="775" alt="Screenshot 2026-03-21 174945" src="https://github.com/user-attachments/assets/6dce67cc-b18a-4b64-8516-680b21f30a69" />
+<img width="759" height="801" alt="Screenshot 2026-03-21 175005" src="https://github.com/user-attachments/assets/e6edd441-a11f-45f0-bd08-7ae1c39acf0a" />
+
+
+
